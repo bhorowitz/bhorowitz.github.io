@@ -22,7 +22,7 @@ Some of my recent work has been focused on understanding the emergent structures
 [Efficient Optimal Reconstruction of Linear Fields and Band-powers from Cosmological Data](https://arxiv.org/abs/1810.00503)
 
 
-## Unstanding the Structure of the Universe through the Cosmic Microwave Background
+## Understanding the Structure of the Universe through the Cosmic Microwave Background
 
 The Cosmic Microwave Background provides a backlight on universe and we can analyze structures not only through the radiation they emit but through the interaction of the matter with light from the cosmic microwave background. This has the advantege of allowing us to analyze aspects of galaxy clusters that cannot be inferred from the visible light, such as the temperature of the intracluster medium (through the thermal Sunyaev Zeldovich effect) or the overall mass of the cluster (through their gravitational lensing).
 
