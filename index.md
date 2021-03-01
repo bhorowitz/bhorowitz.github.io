@@ -17,7 +17,7 @@ The distribution of matter in the universe holds a wealth of information about t
 
 Some of my recent work has been focused on understanding the emergent structures in the universe from a variety of cosmological probes using maximum likelihood methods.
 
-[Improved Lyman Alpha Tomography using Optimized Reconstruction with Constraints onAbsorption (ORCA)](https://arxiv.org/abs/2102.12306)
+[Improved Lyman Alpha Tomography using Optimized Reconstruction with Constraints on Absorption (ORCA)](https://arxiv.org/abs/2102.12306)
 
 [Synergistic Density Reconstruction from Lyman-alpha Forest and Spectroscopic Galaxy Surveys with Applications to Protoclusters and the Cosmic Web](https://arxiv.org/abs/2007.15994)
 
