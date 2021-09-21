@@ -17,6 +17,8 @@ The distribution of matter in the universe holds a wealth of information about t
 
 Some of my recent work has been focused on understanding the emergent structures in the universe from a variety of cosmological probes using maximum likelihood methods.
 
+[Second Data Release of the COSMOS Lyman-alpha Mapping and Tomographic Observation: The First 3D Maps of the Large-Scale Cosmic Web at 2.05<z<2.55](https://arxiv.org/abs/2109.09660)
+
 [Improved Lyman Alpha Tomography using Optimized Reconstruction with Constraints on Absorption (ORCA)](https://arxiv.org/abs/2102.12306)
 
 [Synergistic Density Reconstruction from Lyman-alpha Forest and Spectroscopic Galaxy Surveys with Applications to Protoclusters and the Cosmic Web](https://arxiv.org/abs/2007.15994)
@@ -25,6 +27,13 @@ Some of my recent work has been focused on understanding the emergent structures
 
 [Efficient Optimal Reconstruction of Linear Fields and Band-powers from Cosmological Data](https://arxiv.org/abs/1810.00503)
 
+## Connecting Gas/Galaxies in the Universe to the Underlying Dark Matter with Machine Learning
+
+While the majority of matter in the universe is composed of mysterious dark matter, the objects we can actually observe consist of baryons. While the two are closely correlated, the complicated physical processes of galaxy formation and gas shock heating make drawing a direct connection between the underlying dark matter and the observed structures difficult. In practice, we often have to run hydrodynamical simulations which are incredibly expensive computationally. My recent work has focused on accelerating this process, and making the underlying models differentiable, via use of generative neural network models.
+
+[HyPhy: Deep Generative Conditional Posterior Mapping of Hydrodynamical Physics](https://arxiv.org/abs/2106.12675)
+
+[Fast, high-fidelity Lyman α forests with convolutional neural networks](https://arxiv.org/abs/2106.12662)
 
 ## Understanding the Structure of the Universe through the Cosmic Microwave Background
 
