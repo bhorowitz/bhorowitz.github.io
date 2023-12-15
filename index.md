@@ -5,7 +5,7 @@ layout: default
 
 # About Me
 
-I'm a postdoctoral researcher at Princeton Astronomy Department and a recent graduate from UC Berkeley. My research has mainly focused on understanding the distribution of "stuff" in the universe (the "large scale structure") and using that information to make inferences about underlying physics. Much of my recent work has focused on developing statistical methods to reconstruct distant cosmic structures through a variety of probes.
+I'm a Kavli Fellow at the Institute for the Mathematics and Physics of the Universe (IPMU), formerly at Lawrence Berkeley National Lab and Princeton University. My research has mainly focused on understanding the distribution of "stuff" in the universe (the "large scale structure") and using that information to make inferences about underlying physics. Much of my recent work has focused on developing statistical methods to reconstruct distant cosmic structures through a variety of probes.
 
 In addition to my work in physics, I'm deeply involved with "Splash" educational outreach/enrichment programs where university students teach short classes on non-standard topics to area high school and middle school students. Classes can be on anything ranging from the physics of black holes to german fairy tales. Students get to learn about things that they normally wouldn't have access to and empower them to find new passions. Through the national umberella organization, Learning Unlimited, I've mentored students at UC Berkeley, UC Merced, Oxford University, Bard College, and Nothwestern University to run their own successful program. 
 
