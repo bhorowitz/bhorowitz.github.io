@@ -13,6 +13,8 @@ In addition to my work in physics, I'm deeply involved with "Splash" educational
 
 ## Reconstructing the Large Scale Structure of the Universe
 
+[Interesting Recent Talk](https://docs.google.com/presentation/d/1-C8rMnuqmnxCN5PkQWhqF0Hc3HfKKOVGPmo2YcDTUHo/edit?usp=sharing)
+
 The distribution of matter in the universe holds a wealth of information about the fundemental nature of the cosmos. As time moves forward, structure evolve under the force of gravity given their initial conditions from the early universe. By understanding the current distributon of matter, we can rewind back time to study the initial conditions as well as constrain the gravitational evolution itself. 
 
 Some of my recent work has been focused on understanding the emergent structures in the universe from a variety of cosmological probes using maximum likelihood methods.
