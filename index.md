@@ -13,11 +13,12 @@ In addition to my work in physics, I'm deeply involved with "Splash" educational
 
 ## Reconstructing the Large Scale Structure of the Universe
 
-[Interesting Recent Talk](https://docs.google.com/presentation/d/1-C8rMnuqmnxCN5PkQWhqF0Hc3HfKKOVGPmo2YcDTUHo/edit?usp=sharing)
-
 The distribution of matter in the universe holds a wealth of information about the fundemental nature of the cosmos. As time moves forward, structure evolve under the force of gravity given their initial conditions from the early universe. By understanding the current distributon of matter, we can rewind back time to study the initial conditions as well as constrain the gravitational evolution itself. 
 
 Some of my recent work has been focused on understanding the emergent structures in the universe from a variety of cosmological probes using maximum likelihood methods.
+
+[Interesting Recent (Technical) Talk on Differentiable Hydrodynamcis](https://docs.google.com/presentation/d/1-C8rMnuqmnxCN5PkQWhqF0Hc3HfKKOVGPmo2YcDTUHo/edit?usp=sharing)
+
 
 [Second Data Release of the COSMOS Lyman-alpha Mapping and Tomographic Observation: The First 3D Maps of the Large-Scale Cosmic Web at 2.05<z<2.55](https://arxiv.org/abs/2109.09660)
 
@@ -32,6 +33,10 @@ Some of my recent work has been focused on understanding the emergent structures
 ## Connecting Gas/Galaxies in the Universe to the Underlying Dark Matter with Machine Learning
 
 While the majority of matter in the universe is composed of mysterious dark matter, the objects we can actually observe consist of baryons. While the two are closely correlated, the complicated physical processes of galaxy formation and gas shock heating make drawing a direct connection between the underlying dark matter and the observed structures difficult. In practice, we often have to run hydrodynamical simulations which are incredibly expensive computationally. My recent work has focused on accelerating this process, and making the underlying models differentiable, via use of generative neural network models.
+
+[Differentiable Stochastic Halo Occupation Distribution](https://arxiv.org/abs/2211.03852)
+
+[Plausible Adversarial Attacks on Direct Parameter Inference Models in Astrophysics](https://arxiv.org/abs/2211.14788)
 
 [HyPhy: Deep Generative Conditional Posterior Mapping of Hydrodynamical Physics](https://arxiv.org/abs/2106.12675)
 
