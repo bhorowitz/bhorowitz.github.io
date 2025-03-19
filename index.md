@@ -17,8 +17,9 @@ The distribution of matter in the universe holds a wealth of information about t
 
 Some of my recent work has been focused on understanding the emergent structures in the universe from a variety of cosmological probes using maximum likelihood methods.
 
-[Interesting Recent (Technical) Talk on Differentiable Hydrodynamcis](https://docs.google.com/presentation/d/1-C8rMnuqmnxCN5PkQWhqF0Hc3HfKKOVGPmo2YcDTUHo/edit?usp=sharing)
+[Interesting Recent (Technical) Talk on Differentiable Hydrodynamics](https://docs.google.com/presentation/d/1-C8rMnuqmnxCN5PkQWhqF0Hc3HfKKOVGPmo2YcDTUHo/edit?usp=sharing)
 
+[Taipei Talk](https://docs.google.com/presentation/d/17zQwpKa_Qferiz6X1Nb6PzwjMez0TSQyzvp2ZYOBxgw/edit?usp=sharing)
 
 [Second Data Release of the COSMOS Lyman-alpha Mapping and Tomographic Observation: The First 3D Maps of the Large-Scale Cosmic Web at 2.05<z<2.55](https://arxiv.org/abs/2109.09660)
 
