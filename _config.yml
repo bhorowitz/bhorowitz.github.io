@@ -6,3 +6,7 @@ google_analytics:
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-redirect-from
+---
+permalink: /jfof/
+redirect_to: https://arxiv.org/
+---
