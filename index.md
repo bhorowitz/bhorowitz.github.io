@@ -8,7 +8,7 @@ I am a **Kavli Fellow at the Kavli Institute for the Physics and Mathematics of 
 
 My research connects **astrophysical simulations**, **machine learning**, and **statistical inference** to understand how structure emerges in the universe—from the intergalactic medium to galaxies and dark matter halos. I develop **differentiable, learnable simulation frameworks** that integrate data directly into the modeling process, allowing the universe itself to help refine our physical models.
 
-I’m also deeply involved in educational outreach through *Splash* and *Learning Unlimited*, programs that empower university students to teach short, creative courses to local high school and middle school students. I’ve mentored and helped launch programs at UC Berkeley, UC Merced, Oxford University, Bard College, and Northwestern University.
+I’m also deeply involved in educational outreach through *Splash* and [*Learning Unlimited*](https://www.learningu.org/about/), programs that empower university students to teach short, creative courses to local high school and middle school students. I’ve mentored and helped launch programs at UC Berkeley, UC Merced, Oxford University, Bard College, and Northwestern University.
 
 ---
 
@@ -24,6 +24,10 @@ The distribution of matter—visible and dark—encodes the history of structure
 - [CLAMATO DR2: First 3D Maps of the Detailed Cosmic Web at 2.05 < z < 2.55 (2022)](https://arxiv.org/abs/2109.09660)
 
 These efforts powerfully constrain the evolution of cosmic structure and bridge early-universe initial conditions with present-day galaxy environments.
+
+My main recent focus has been on differentiable hydrodynamics which would enable many new types of analysis including bayesian "field level" inference. This work is open source and [available on github](https://github.com/bhorowitz/DiffHydro_public); collaborators welcome!
+
+<img src="https://github.com/bhorowitz/DiffHydro_public/blob/main/animations/diffhydro_rho_web.gif?raw=true" width="400" />
 
 ---
 
@@ -65,10 +69,10 @@ The same frameworks are being extended to probe the **Cosmic Microwave Backgroun
 
 # Recent Projects and Collaborations
 
-- **cosmosTNG** — Constrained hydrodynamical simulations of the COSMOS field.  
-- **Prime Focus Spectrograph (PFS)** — Galaxy Evolution Working Group, Large-Scale Structure Coordinator.  
+- [**cosmosTNG**](https://cbyrohl.de/en/project/cosmostng/) — Constrained hydrodynamical simulations of the COSMOS field.  
+- [**Prime Focus Spectrograph (PFS)**](https://www.nao.ac.jp/en/research/project/pfs.html) — Galaxy Evolution Working Group, Large-Scale Structure Coordinator.  
 - **CLAMATO Survey** — Principal developer of tomographic reconstruction framework and DR2 release.  
-- **Center for Data-Driven Discovery (CD³)**, University of Tokyo  
+- [**Center for Data-Driven Discovery (CD³)**](https://cd3.ipmu.jp/), University of Tokyo  
 
 ---
 
