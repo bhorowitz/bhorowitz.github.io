@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I am a **Affiliate Research Scientist at Space Science Institute** and a **Kavli Fellow at the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU)**, University of Tokyo. Previously, I was a postdoctoral researcher at **Lawrence Berkeley National Laboratory** and **Princeton University**.
+I am a **Affiliate Research Scientist at the Space Science Institute** and a **Kavli Fellow at the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU)**, University of Tokyo. Previously, I was a postdoctoral researcher at **Lawrence Berkeley National Laboratory** and **Princeton University**.
 
 My research connects **astrophysical simulations**, **machine learning**, and **statistical inference** to understand how structure emerges in the universe—from the intergalactic medium to galaxies and dark matter halos. I develop **differentiable, learnable simulation frameworks** that integrate data directly into the modeling process, allowing the universe itself to help refine our physical models.
 
